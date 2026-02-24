@@ -1,0 +1,9 @@
+1. I want to learn backend development and get comfortable building server side applications. 
+ 
+2. I aim to build small project that help me practice coding and solve real problems. 
+ 
+3. I want to master Git and GitHub to manage my code like a pro. 
+ 
+4. I'm working on improving my programming logic, algorithms, and debugging skills. 
+ 
+5. I plan to develop a complete backend project that applies everything i have learned so far.
